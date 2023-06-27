@@ -13,7 +13,8 @@ body{
     border-radius: 25px;
     width: 90%;
     max-width: 470px;
-    margin: 75px auto 75px;
+    margin: 25px auto 75px;
+    margin-bottom: 25px;
     padding: 40px 35px;
     text-align: center;
     margin-bottom: 100px;
@@ -86,7 +87,9 @@ body{
     margin: -8px;
 
 }
-footer h6{
-    margin-top:25px;
-    margin-bottom: 0px;
+.box1{
+    background: linear-gradient(135deg,#345ec7,#ed7b46);
+    color: #fff;
+    border-radius: 25px;
+    
 }
