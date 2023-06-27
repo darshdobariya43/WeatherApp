@@ -8,7 +8,7 @@ body{
     background: linear-gradient(135deg,#0668d8,#c73459);
 }
 .box{    
-        background: linear-gradient(135deg,#345ec7,#ed7b46);
+    background: linear-gradient(135deg,#345ec7,#ed7b46);
     color: #fff;
     border-radius: 25px;
     width: 90%;
@@ -26,6 +26,7 @@ body{
 
 }
 .search input{
+    width:75%;
     border: 0;
     outline: 0;
     background:#ebfffc;
